@@ -13,5 +13,7 @@ Predictive Problem Identification: Identified the predictive problem as a regres
 Categorical Variable Encoding: Employed IF conditions to encode categorical variables into numeric values, enabling their utilization in the predictive model.
 Model Building: Constructed an appropriate predictive model using Excel, leveraging the Data Analysis Add-in.
 Performance Evaluation: Calculated the Root Mean Square Error (RMSE) of the model to assess its predictive accuracy.
+
+
 Model Deployment: Developed a predictive model capable of estimating tip amounts based on input values, providing a mathematical equation for tip prediction.
 This project honed my skills in data preprocessing, feature analysis, predictive modeling, and performance evaluation using Excel. It also demonstrated my ability to apply analytical techniques to real-world datasets to derive actionable insights and facilitate decision-making processes.
